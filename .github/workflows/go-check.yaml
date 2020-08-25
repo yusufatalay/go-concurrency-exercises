@@ -1,6 +1,6 @@
-// copy pasta from https://github.com/grandcolline/golang-github-actions
+# copy pasta from https://github.com/grandcolline/golang-github-actions
 
-name: go-checks
+name: go checks
 on: pull_request
 
 jobs:
